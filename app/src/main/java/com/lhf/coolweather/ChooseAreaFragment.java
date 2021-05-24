@@ -121,4 +121,6 @@ public class ChooseAreaFragment extends Fragment {
         }
     }
 
+    呵呵
+
 }
