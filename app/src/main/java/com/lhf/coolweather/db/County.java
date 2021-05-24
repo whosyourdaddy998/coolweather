@@ -2,7 +2,7 @@ package com.lhf.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
-class County extends DataSupport {
+public class County extends DataSupport {
     private int id;
     private String countyName;
     private int countyCode;
